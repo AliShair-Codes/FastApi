@@ -40,3 +40,4 @@ def sort_patients(sort_by: str = Query(..., description='Sort on the basis of he
         raise HTTPException(status_code=400, detail=f'Invalid order select b/w asc and desc')
     
     data = load_data()
+    # ''
