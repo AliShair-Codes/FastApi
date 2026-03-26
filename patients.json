@@ -1,0 +1,102 @@
+{
+  "p001": {
+    "name": "John Doe",
+    "city": "New York",
+    "age": 28,
+    "gender": "Male",
+    "height": 175,
+    "weight": 70,
+    "bmi": 22.86,
+    "verdict": "Healthy"
+  },
+  "p002": {
+    "name": "Jane Smith",
+    "city": "Los Angeles",
+    "age": 34,
+    "gender": "Female",
+    "height": 165,
+    "weight": 60,
+    "bmi": 22.04,
+    "verdict": "Healthy"
+  },
+  "p003": {
+    "name": "Alex Johnson",
+    "city": "Chicago",
+    "age": 42,
+    "gender": "Male",
+    "height": 180,
+    "weight": 85,
+    "bmi": 26.23,
+    "verdict": "Overweight"
+  },
+  "p004": {
+    "name": "Emily Davis",
+    "city": "Houston",
+    "age": 29,
+    "gender": "Female",
+    "height": 160,
+    "weight": 55,
+    "bmi": 21.48,
+    "verdict": "Healthy"
+  },
+  "p005": {
+    "name": "Michael Brown",
+    "city": "Phoenix",
+    "age": 36,
+    "gender": "Male",
+    "height": 178,
+    "weight": 90,
+    "bmi": 28.41,
+    "verdict": "Overweight"
+  },
+  "p006": {
+    "name": "Olivia Wilson",
+    "city": "Philadelphia",
+    "age": 25,
+    "gender": "Female",
+    "height": 168,
+    "weight": 58,
+    "bmi": 20.55,
+    "verdict": "Healthy"
+  },
+  "p007": {
+    "name": "Daniel Martinez",
+    "city": "San Antonio",
+    "age": 40,
+    "gender": "Male",
+    "height": 182,
+    "weight": 95,
+    "bmi": 28.69,
+    "verdict": "Overweight"
+  },
+  "p008": {
+    "name": "Sophia Anderson",
+    "city": "San Diego",
+    "age": 31,
+    "gender": "Female",
+    "height": 170,
+    "weight": 62,
+    "bmi": 21.45,
+    "verdict": "Healthy"
+  },
+  "p009": {
+    "name": "James Thomas",
+    "city": "Dallas",
+    "age": 38,
+    "gender": "Male",
+    "height": 176,
+    "weight": 80,
+    "bmi": 25.81,
+    "verdict": "Overweight"
+  },
+  "p010": {
+    "name": "Ava Taylor",
+    "city": "San Jose",
+    "age": 27,
+    "gender": "Female",
+    "height": 162,
+    "weight": 54,
+    "bmi": 20.60,
+    "verdict": "Healthy"
+  }
+}
