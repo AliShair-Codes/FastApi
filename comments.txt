@@ -1,0 +1,8 @@
+python3 -m venv .venv
+source .venv/bin/activate
+pip install fastapi uvicorn pydantic
+uvicorn mainapp --reload
+git --version
+git config --global user.name "My name"
+git config --global user.email "githubemailaddress"
+now create repo
